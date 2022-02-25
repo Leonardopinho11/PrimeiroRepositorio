@@ -1,1 +1,4 @@
 banana 
+morango
+milho
+beterraba 
